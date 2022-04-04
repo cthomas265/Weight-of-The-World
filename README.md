@@ -8,7 +8,7 @@ Weight of The World is a repo to help you plan out your life with a handy calend
 
 -Time blocks are customizable with events 
 
-
+https://cthomas265.github.io/Weight-of-The-World/
 
 ![image](https://user-images.githubusercontent.com/98835210/161473317-d47c12e5-ff29-4789-b499-59cada6816ff.png)
 
